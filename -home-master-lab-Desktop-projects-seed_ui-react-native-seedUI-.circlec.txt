@@ -1,0 +1,6 @@
+/home/master-lab/Desktop/projects/seed_ui/react-native-seedUI/.circleci
+/home/master-lab/Desktop/projects/seed_ui/react-native-seedUI/.husky
+/home/master-lab/Desktop/projects/seed_ui/react-native-seedUI/.editorconfig
+/home/master-lab/Desktop/projects/seed_ui/react-native-seedUI/.gitattributes
+/home/master-lab/Desktop/projects/seed_ui/react-native-seedUI/.gitignore
+/home/master-lab/Desktop/projects/seed_ui/react-native-seedUI/.yarnrc

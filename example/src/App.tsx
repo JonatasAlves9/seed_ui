@@ -12,7 +12,7 @@ export default function App() {
         primary: 'red',
       }}
     >
-      <Container>
+      <Container centered>
         <SDTextInput placeholder="Digite aqui" />
         <Text>Teste</Text>
         <Text>Teste</Text>

@@ -11,4 +11,5 @@ export const TextInputStyled = styled(TextInput)<TextInputProps>`
   border-width: 1px;
   padding: 10px;
   font-size: 15px;
+  width: 100%;
 `;

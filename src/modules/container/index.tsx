@@ -3,7 +3,7 @@ import { View, ViewProps } from 'react-native';
 import { styleContainer, styleContainerCentered } from './styles';
 
 interface props extends ViewProps {
-  children: React.ReactElement;
+  children: React.ReactNode;
   centered?: boolean;
 }
 

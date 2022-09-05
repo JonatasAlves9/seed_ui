@@ -1,12 +1,27 @@
 import * as React from 'react';
 import { Text } from 'react-native';
 
-import { Container } from 'react-native-seedui';
+import { Container, Flex } from 'react-native-seedui';
 
 export default function App() {
   return (
-    <Container>
+    <Flex isWrap>
       <Text>Teste</Text>
-    </Container>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+      <Text>Teste</Text>
+    </Flex>
   );
 }

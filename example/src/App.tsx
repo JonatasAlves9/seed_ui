@@ -3,7 +3,7 @@ import { Text } from 'react-native';
 
 import { ThemeProvider } from 'styled-components/native';
 
-import { Container, Flex, SDTextInput } from 'react-native-seedui';
+import { Container, SDButton, SDTextInput } from 'react-native-seedui';
 
 export default function App() {
   return (
@@ -14,7 +14,7 @@ export default function App() {
     >
       <Container centered>
         <SDTextInput placeholder="Digite aqui" />
-        <Text>Teste</Text>
+        <SDButton title="Entrar" />
         <Text>Teste</Text>
         <Text>Teste</Text>
         <Text>Teste</Text>

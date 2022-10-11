@@ -6,9 +6,9 @@ interface Props extends TouchableOpacityProps {
   title: string;
 }
 
-export const SDButton = ({ title }: Props) => {
+export const SDButton = ({ title, ...rest }: Props) => {
   return (
-    <Container activeOpacity={0.8}>
+    <Container activeOpacity={0.8} {...rest}>
       <TextButton>{title}</TextButton>
     </Container>
   );

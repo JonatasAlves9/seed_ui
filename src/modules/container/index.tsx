@@ -9,7 +9,7 @@ interface props extends ViewProps {
 
 export const Container = ({ children, centered, ...rest }: props) => {
   return (
-    <View {...rest} style={centered ? styleContainerCentered : styleContainer}>
+    <View style={centered ? styleContainerCentered : styleContainer} {...rest}>
       {children}
     </View>
   );

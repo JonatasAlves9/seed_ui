@@ -1,0 +1,6 @@
+module Pods_SeeduiExample {
+  umbrella header "Pods-SeeduiExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

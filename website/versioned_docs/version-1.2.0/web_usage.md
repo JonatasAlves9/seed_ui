@@ -3,13 +3,13 @@ id: web_usage
 title: Usage on the Web
 ---
 
-React Native Elements just like on mobile can be used in your web projects. This is possible using [react-native-web](https://github.com/necolas/react-native-web). We'll highlight how to set this up using create-react-app.
+Seed UI just like on mobile can be used in your web projects. This is possible using [react-native-web](https://github.com/necolas/react-native-web). We'll highlight how to set this up using create-react-app.
 
 ## Why do I have to set this up?
 
 On the web, you can usually use UI libraries directly from npm without any additional setup. However in react-native, it's a bit different.
 
-The major difference is that React Native can support JSX and advanced javascript out the box. This means that we don't need to transpile our code before we ship it to npm. **We ship JSX and advanced javascript directly to npm** in React Native Elements, so we need to account for this in our web projects.
+The major difference is that React Native can support JSX and advanced javascript out the box. This means that we don't need to transpile our code before we ship it to npm. **We ship JSX and advanced javascript directly to npm** in Seed UI, so we need to account for this in our web projects.
 
 ## Create React App
 

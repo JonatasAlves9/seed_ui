@@ -60,7 +60,7 @@ import { Card, ListItem, Button, Icon } from 'react-native-elements'
   <Card.Divider/>
   <Card.Image source={require('../images/pic2.jpg')}>
     <Text style={{marginBottom: 10}}>
-      The idea with React Native Elements is more about component structure than actual design.
+      The idea with Seed UI is more about component structure than actual design.
     </Text>
     <Button
       icon={<Icon name='code' color='#ffffff' />}

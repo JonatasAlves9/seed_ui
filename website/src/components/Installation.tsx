@@ -21,7 +21,7 @@ const Home: React.FunctionComponent<{}> = () => {
             </div>
             <div className="col col--7 ">
               <p>
-                <b>1. Install the React Native Elements package from the NPM</b>
+                <b>1. Install the Seed UI package from the NPM</b>
                 <p className="margin-vert--md margin-horiz--md">
                   <CodeBlock language="bash">
                     npm install @rneui/base @rneui/themed

@@ -5,7 +5,7 @@ title: Migration Guide
 
 # Migrating to v4
 
-React Native Elements v4 introduces many features including few new components, fully typescript support and some breaking changes whose migration is being given below.
+Seed UI v4 introduces many features including few new components, fully typescript support and some breaking changes whose migration is being given below.
 
 ## Core changes
 

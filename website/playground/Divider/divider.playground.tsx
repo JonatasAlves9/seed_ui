@@ -31,7 +31,7 @@ const DividerPlayground = () => {
       },
       subHeader: {
         type: PropTypes.String,
-        value: 'React native elements',
+        value: 'Seed UI',
         description: 'Adds a sub-header next to divider.',
       },
       subHeaderStyle: {

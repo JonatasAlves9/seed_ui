@@ -3,7 +3,7 @@ id: troubleshooting
 title: Troubleshooting
 ---
 
-Although we try to make the experience of using React Native Elements
+Although we try to make the experience of using Seed UI
 hassle-free, time to time you may encounter some problems along the way.
 
 On this page you can find solutions to commonly encountered issues.
@@ -57,7 +57,7 @@ you are using, is trying to use a font that is not bundled with the platform or
 is not added to the project.
 
 If you aren't using a custom font in your application, then it's likely that
-the error comes from React Native Elements looking for
+the error comes from Seed UI looking for
 `react-native-vector-icons`.
 
 They're a couple ways to solve this depending on your setup.
@@ -76,7 +76,7 @@ They're a couple ways to solve this depending on your setup.
 rm -rf node_modules yarn.lock package-lock.json
 ```
 
-2. Install React Native Elements
+2. Install Seed UI
 
 ```bash
 # npm
@@ -130,7 +130,7 @@ commands:
 rm -rf node_modules yarn.lock package-lock.json
 ```
 
-2. Install React Native Elements
+2. Install Seed UI
 
 ```bash
 # npm

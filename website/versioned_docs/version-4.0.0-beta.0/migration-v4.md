@@ -18,7 +18,7 @@ title: Migration from v3 to v4
 
 ## What's New?
 
-React Native Elements v4 introduces many features including few new components, fully typescript support and some breaking changes whose migration is being [given below](#handling-breaking-changes).
+Seed UI v4 introduces many features including few new components, fully typescript support and some breaking changes whose migration is being [given below](#handling-breaking-changes).
 
 ### Migration to Functional
 
@@ -41,7 +41,7 @@ These components are converted to Functional Components,
 
 :::note
 
-Earlier React Native Elements was using `Touchable` as touch handler, but since `v4.0` will use `Pressable`
+Earlier Seed UI was using `Touchable` as touch handler, but since `v4.0` will use `Pressable`
 
 :::
 

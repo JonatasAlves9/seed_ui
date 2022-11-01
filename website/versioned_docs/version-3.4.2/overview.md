@@ -4,9 +4,9 @@ title: Overview
 ---
 
 This section of the documentation describes the props and examples for all the
-components from React Native Elements. Please take some time and explore all of the components that are at your disposal!
+components from Seed UI. Please take some time and explore all of the components that are at your disposal!
 
-## Using React Native Elements
+## Using Seed UI
 
 The components in this library have a single theme running through them. From
 one central location, we can update the colours used in all components. While

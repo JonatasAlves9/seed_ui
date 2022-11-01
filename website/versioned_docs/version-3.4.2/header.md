@@ -18,7 +18,7 @@ to the current screen.
 
 ### Header with default components
 
-For quick setup we provide default components, which are React Native Elements
+For quick setup we provide default components, which are Seed UI
 Icon for left/right buttons and React Native Text for title. You can customize
 them with configuration objects passed in as props.
 
@@ -118,7 +118,7 @@ center, or right component's layout, you can adjust the `containerStyle`
 
 ## LinearGradient Usage
 
-Using LinearGradient in React Native Elements is supported through the
+Using LinearGradient in Seed UI is supported through the
 [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)
 package. If you're using expo or create-react-native-app then you can use
 `linearGradientProps` prop right out the box with no additional setup.

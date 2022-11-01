@@ -1,7 +1,7 @@
 ## Props
 
 > This component inherits all
-> [React Native Elements Input props](input.md#props),
+> [Seed UI Input props](input.md#props),
 > which means
 > [all native TextInput props that come with a standard React Native TextInput element](https://reactnative.dev/docs/textinput.html),
 > along with the following:

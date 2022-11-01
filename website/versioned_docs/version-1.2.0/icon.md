@@ -13,7 +13,7 @@ Icons are visual indicators usually used to describe action or intent.
 
 ## Available Icon Sets
 
-The icon sets in React Native Elements are made possible through
+The icon sets in Seed UI are made possible through
 [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons).
 
 The current list of available icons sets are:

@@ -6,7 +6,7 @@ import Snack from './snack/index.md'
 
 ## Available Icon Sets
 
-The icon sets in React Native Elements are made possible through
+The icon sets in Seed UI are made possible through
 [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons).
 
 The current list of available icons sets are:

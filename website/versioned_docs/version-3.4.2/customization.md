@@ -3,18 +3,18 @@ id: customization
 title: Customization
 ---
 
-Congrats! You've installed React Native Elements and your immediate question
+Congrats! You've installed Seed UI and your immediate question
 goes something like this:
 
 > So umm, how do I change how it looks?
 
 Great question! A UI Kit wouldn't be that useful if the apps everyone built
-looked the same right? For this case React Native Elements provide a number of
+looked the same right? For this case Seed UI provide a number of
 props on each component to enable you to style them how you want.
 
 ## Component Styles
 
-_Every_ component from React Native Elements has a container around it. The
+_Every_ component from Seed UI has a container around it. The
 container is just a traditional `<View />` from react native that has some
 styling on it. This default styling prevents components from colliding with each
 other. If you want to change how two components react to each on the screen your
@@ -29,7 +29,7 @@ component to find out which style props it provides.
 While component styles are great for single use, you may want to have the same
 styling for every instance of a component. For example, you may want all your
 buttons to be blue or have the same font. Here are some ways to reuse styles
-with React Native Elements.
+with Seed UI.
 
 ### Using Composition
 
@@ -268,7 +268,7 @@ const theme = {
 
 ### Dark Mode
 
-React Native Elements also provides a preset dark mode palette to get you started with using dark mode in your app.
+Seed UI also provides a preset dark mode palette to get you started with using dark mode in your app.
 Use the prop `useDark` in `ThemeProvider` to set the default dark theme. You may want to set this by using a button,
 or by using the user's configured settings
 

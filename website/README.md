@@ -1,4 +1,4 @@
-## React Native Elements website
+## Seed UI website
 
 https://reactnativeelements.com/
 

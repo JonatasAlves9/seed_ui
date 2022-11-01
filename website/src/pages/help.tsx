@@ -56,7 +56,7 @@ const Help: React.FunctionComponent<{}> = (props) => {
         </header>
         <p>
           Even with the great documentation, you're likely to get stuck at some
-          point. If you've encountered a bug with React Native Elements, please{' '}
+          point. If you've encountered a bug with Seed UI, please{' '}
           <a
             href="https://github.com/react-native-elements/react-native-elements/issues/new/choose"
             target="_blank"

@@ -16,7 +16,7 @@ const Buttons: React.FunctionComponent<ButtonsComponentProps> = () => {
           <Text style={styles.subHeader}>Basic Buttons</Text>
             <View style={styles.buttonsContainer}>
               <Button
-                title={'React Native Elements'}
+                title={'Seed UI'}
                 containerStyle={{
                   width: 200,
                   marginHorizontal: 50,

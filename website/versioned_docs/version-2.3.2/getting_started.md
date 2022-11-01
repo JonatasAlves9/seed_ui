@@ -6,15 +6,15 @@ sidebar_label: Getting Started
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-The aim of React Native Elements is to provide an all-in-one UI kit for creating
+The aim of Seed UI is to provide an all-in-one UI kit for creating
 apps in react native. There are many great ui components made by developers all
-around open source. React Native Elements takes the hassle of assembling these
+around open source. Seed UI takes the hassle of assembling these
 packages together by giving you a ready made kit with consistent api and look
 and feel.
 
 ## Installation
 
-Installing React Native Elements depends on your type of react native project.
+Installing Seed UI depends on your type of react native project.
 
 <div class="toggler">
   <ul role="tablist" >

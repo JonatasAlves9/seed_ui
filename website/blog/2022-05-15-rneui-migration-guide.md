@@ -1,5 +1,5 @@
 ---
-title: React Native Elements 4.0
+title: Seed UI 4.0
 
 authors: [arpitBhalla, rneui]
 ---
@@ -10,7 +10,7 @@ authors: [arpitBhalla, rneui]
 
 <div className="admonition admonition-info alert alert--info">
   <div className="admonition-content">
-React Native Elements v4 introduces many features including few new components, fully typescript support and some breaking changes whose migration is being given below.
+Seed UI v4 introduces many features including few new components, fully typescript support and some breaking changes whose migration is being given below.
 </div>
 </div>
 

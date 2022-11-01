@@ -10,7 +10,7 @@ authors: [arpitBhalla]
 
 ## 📑 Project Details
 
-- Organization: [React Native Elements](https://github.com/react-native-elements)
+- Organization: [Seed UI](https://github.com/react-native-elements)
 
 - Project: [Migrating Hooks, Tests & APIs](https://summerofcode.withgoogle.com/projects/#5514659471294464)
 
@@ -20,7 +20,7 @@ authors: [arpitBhalla]
 
 ## 🚀 Overview
 
-The **Google Summer of Code 2021** has been a fantastic and cheerful learning experience for me over the past few months. I have learned a lot from the community, especially how to organize commits and write readable code. **React Native Elements** is an amazing community to work with, as mentors are really helpful and experienced. I had started contributing to React Native Elements from March 2021 and till now, I have 40+ commits (10,803 additions and 13,826 deletions) merged. Over the past few months, I had great exposure writing maintainable code, communicating with the mentors, etc. I had completed some of my work in the coding period started as some issues mentioned in my proposal had a high priority for the release.
+The **Google Summer of Code 2021** has been a fantastic and cheerful learning experience for me over the past few months. I have learned a lot from the community, especially how to organize commits and write readable code. **Seed UI** is an amazing community to work with, as mentors are really helpful and experienced. I had started contributing to Seed UI from March 2021 and till now, I have 40+ commits (10,803 additions and 13,826 deletions) merged. Over the past few months, I had great exposure writing maintainable code, communicating with the mentors, etc. I had completed some of my work in the coding period started as some issues mentioned in my proposal had a high priority for the release.
 
 <div align='center'>
 <img src='https://raw.githubusercontent.com/arpitBhalla/google-summer-of-code/master/assets//contri.png' width='900' />
@@ -97,7 +97,7 @@ It helps user to test the component from documentation
 
 ### VS Code extension
 
-Auto imports components and auto complete syntax with component preview for React Native Elements.
+Auto imports components and auto complete syntax with component preview for Seed UI.
 
 <div align='center'>
 <img src='https://raw.githubusercontent.com/arpitBhalla/google-summer-of-code/master/assets//vscode.png' />

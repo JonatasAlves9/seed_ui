@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'React Native Elements' /* title for your website */,
+  title: 'Seed UI' /* title for your website */,
   tagline: 'Cross Platform React Native UI Toolkit',
   url: 'https://reactnativeelements.com/' /* your website url */,
   baseUrl: '/' /* base url for your project */,
@@ -67,7 +67,7 @@ const config = {
       },
       { name: 'og:type', content: 'website' },
       { name: 'og:url', content: 'https://reactnativeelements.com/' },
-      { name: 'og:title', content: 'React Native Elements' },
+      { name: 'og:title', content: 'Seed UI' },
       {
         name: 'og:description',
         content: 'Cross-Platform React Native UI Toolkit | backed by community',
@@ -78,7 +78,7 @@ const config = {
       },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:url', content: 'https://reactnativeelements.com/' },
-      { name: 'twitter:title', content: 'React Native Elements' },
+      { name: 'twitter:title', content: 'Seed UI' },
       {
         name: 'twitter:description',
         content: 'Cross-Platform React Native UI Toolkit | backed by community',
@@ -95,7 +95,7 @@ const config = {
     announcementBar: {
       id: 'support_us',
       content:
-        'If you like React Native Elements, give it a  <a target="_blank" rel="noopener noreferrer" href="https://github.com/react-native-elements/react-native-elements">star on GitHub!</a> ⭐' +
+        'If you like Seed UI, give it a  <a target="_blank" rel="noopener noreferrer" href="https://github.com/react-native-elements/react-native-elements">star on GitHub!</a> ⭐' +
         ' and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/rn_elements">Twitter</a>!',
       backgroundColor: 'var(--ifm-hero-background-color)',
       textColor: 'var(--ifm-navbar-link-color)', // Defaults to `#000`.
@@ -106,9 +106,9 @@ const config = {
       disableSwitch: false,
     },
     navbar: {
-      title: 'React Native Elements',
+      title: 'Seed UI',
       logo: {
-        alt: 'React Native Elements Logo',
+        alt: 'Seed UI Logo',
         src: '/img/website/logo.png',
       },
       hideOnScroll: true,

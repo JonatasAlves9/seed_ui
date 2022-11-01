@@ -16,7 +16,7 @@ Here are some of some of ways you can help:
 
 ## Reporting Bugs
 
-React Native Elements is used by many people, in fact they're over 9000 persons
+Seed UI is used by many people, in fact they're over 9000 persons
 using it in their projects. With that many use cases, bugs are sure to come up
 from time to time. We release almost every two weeks, so sometimes we may
 accidentally miss something along the way. When you think you've found a bug
@@ -48,7 +48,7 @@ guide.
 
 Have a cool idea for a component? Think you can implement an existing feature
 better? Go ahead and open and issue, describe what you want to accomplish and
-lastly, why you think React Native Elements would benefit from it.
+lastly, why you think Seed UI would benefit from it.
 
 A few things to consider/add:
 

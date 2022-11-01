@@ -19,10 +19,10 @@ To use the v4 version, you first need to update the package names:
 You can install the packages from npm or yarn
 
 ```bash
-npm install @rneui/base @rneui/themed
+npm install @react-native-seedui
 
 # or with yarn
-yarn add @rneui/base @rneui/themed
+yarn add @react-native-seedui
 ```
 
 You can also make `alias` for package to help you with migration.

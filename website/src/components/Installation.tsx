@@ -24,7 +24,7 @@ const Home: React.FunctionComponent<{}> = () => {
                 <b>1. Install the Seed UI package from the NPM</b>
                 <p className="margin-vert--md margin-horiz--md">
                   <CodeBlock language="bash">
-                    npm install @rneui/base @rneui/themed
+                    npm install @react-native-seedui
                   </CodeBlock>
                 </p>
 

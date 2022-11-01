@@ -24,14 +24,14 @@ values={[
 <TabItem value="npm">
 
 ```bash
-npm install @rneui/themed @rneui/base
+npm install @rneui/themed @react-native-seedui
 ```
 
 </TabItem>
 <TabItem value="yarn">
 
 ```bash
-yarn add @rneui/themed @rneui/base
+yarn add @rneui/themed @react-native-seedui
 ```
 
 </TabItem>
@@ -48,13 +48,13 @@ values={[
 <TabItem value="npm">
 
 ```bash
-npm install @rneui/base@edge @rneui/themed@edge
+npm install @react-native-seedui@edge @rneui/themed@edge
 ```
 
 If you are facing issue while installing from `edge` dist-tag, you can install directly from Github
 
 ```bash
-# @rneui/base
+# @react-native-seedui
 npm install react-native-elements/react-native-elements#base
 
 # @rneui/themed
@@ -65,14 +65,14 @@ npm install react-native-elements/react-native-elements#themed
 <TabItem value="yarn">
 
 ```bash
-yarn add @rneui/base@edge @rneui/themed@edge
+yarn add @react-native-seedui@edge @rneui/themed@edge
 ```
 
 If you are facing issue while installing from `edge` dist-tag, you can install directly from Github
 
 ```bash
-# @rneui/base
-yarn add @rneui/base@github:react-native-elements/react-native-elements#base
+# @react-native-seedui
+yarn add @react-native-seedui@github:react-native-elements/react-native-elements#base
 
 # @rneui/themed
 yarn add @rneui/themed@github:react-native-elements/react-native-elements#themed
@@ -248,7 +248,7 @@ The major difference is that React Native can support JSX and advanced javascrip
 After creating a new create-react-app project, run the following commands.
 
 ```bash
-yarn add  @rneui/base @rneui/themed react-native-web react-native-vector-icons
+yarn add  @react-native-seedui @rneui/themed react-native-web react-native-vector-icons
 ```
 
 ```bash
@@ -264,7 +264,7 @@ const { override, addBabelPlugins, babelInclude } = require('customize-cra');
 module.exports = override(
   ...addBabelPlugins('@babel/plugin-proposal-class-properties'),
   babelInclude([
-    path.resolve(__dirname, 'node_modules/@rneui/base'),
+    path.resolve(__dirname, 'node_modules/@react-native-seedui'),
     path.resolve(__dirname, 'node_modules/@rneui/themed'),
     path.resolve(__dirname, 'node_modules/react-native-vector-icons'),
     path.resolve(__dirname, 'node_modules/react-native-ratings'),

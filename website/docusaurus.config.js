@@ -95,8 +95,8 @@ const config = {
     announcementBar: {
       id: 'support_us',
       content:
-        'If you like Seed UI, give it a  <a target="_blank" rel="noopener noreferrer" href="https://github.com/react-native-elements/react-native-elements">star on GitHub!</a> ⭐' +
-        ' and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/rn_elements">Twitter</a>!',
+        'If you like Seed UI, give it a  <a target="_blank" rel="noopener noreferrer" href="https://github.com/JonatasAlves9/seed_ui/tree/release/0.2">star on GitHub!</a> ⭐' +
+        ' and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com">Twitter</a>!',
       backgroundColor: 'var(--ifm-hero-background-color)',
       textColor: 'var(--ifm-navbar-link-color)', // Defaults to `#000`.
       isCloseable: false,

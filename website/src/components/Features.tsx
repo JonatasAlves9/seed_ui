@@ -51,47 +51,7 @@ const Home: React.FunctionComponent<{}> = () => {
   return (
     <section className="margin-vert--sm" id="why">
       <div className="container text--center">
-        <h1 className="hero__title gradient clip-text">
-          Why Seed UI?
-        </h1>
-        {/* <div>
-            <Link
-              className={'margin-horiz--md margin-vert--sm heroButton'}
-              to={
-                'https://github.com/react-native-elements/react-native-elements/stargazers'
-              }
-            >
-              <img
-                alt="GitHub Repo stars"
-                src="https://img.shields.io/github/stars/react-native-elements/react-native-elements?color=white&label=Github%20Stars&logo=github&style=for-the-badge"
-              />
-            </Link>
-            <Link
-              className={'margin-horiz--md margin-vert--sm heroButton'}
-              to={
-                'https://github.com/react-native-elements/react-native-elements/stargazers'
-              }
-            >
-              <img
-                alt="npm"
-                src="https://img.shields.io/npm/dm/react-native-elements?color=white&label=installs&logo=npm&style=for-the-badge"
-              />
-            </Link>
-          </div> */}
-
-        {/* <div className="row">
-            <div className="col col--10 ">
-              <p className="p--desc margin-vert--md">
-                Seed UI is an implementation of the Material
-                Design System. The framework contains a set of general-purpose
-                UI components styled in a similar way. The most awesome thing
-                about is that the themes can be changed in the runtime without
-                reloading the application. This way, you may easily focus on
-                business logic, while we take care of the visual appearance of
-                your product.
-              </p>
-            </div>
-          </div> */}
+        <h1 className="hero__title gradient clip-text">Why Seed UI?</h1>
       </div>
       <div className="container">
         <div className="row is-multiline">

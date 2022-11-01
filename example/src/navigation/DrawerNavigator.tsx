@@ -33,14 +33,9 @@ function CustomContentComponent(
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
+          paddingTop: 20,
         }}
-      >
-        <Image
-          source={require('../images/logo.png')}
-          style={{ width: '70%', height: 100, tintColor: '#397af8' }}
-          resizeMode="contain"
-        />
-      </View>
+      />
 
       <View
         style={{

@@ -14,18 +14,11 @@ import '../../static/css/components.css';
 
 const Home: React.FunctionComponent<{}> = () => {
   const context = useDocusaurusContext();
-  const { siteConfig = {} } = context;
   return (
     <Layout>
       <Hero />
       <Features />
       <Installation />
-      <RunOnExpo />
-      {/* <FigmaKit /> */}
-      <VScodeExt />
-      <Sponsor />
-      {/* <OpenCollective /> */}
-      <Community />
       <StartNow />
     </Layout>
   );

@@ -98,5 +98,6 @@
       "themed": "@rneui/themed",
       "website/docs": "Docs"
     }
-  }
+  },
+  "name": "seed_ui"
 }

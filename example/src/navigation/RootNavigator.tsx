@@ -8,16 +8,8 @@ import Cards from '../views/cards';
 import Buttons from '../views/buttons';
 import Inputs from '../views/inputs';
 import LinearProgress from '../views/linearProgress';
-import Login from '../views/login';
-import SpeedDial from '../views/speedDial';
-import SocialIcons from '../views/social_icons';
-import Fonts from '../views/fonts';
-import Overlay from '../views/overlay';
 import CheckBox from '../views/checkbox';
 import FAB from '../views/fab';
-import Theme from '../views/theme';
-import Text from '../views/text';
-import Tabs from '../views/tabs';
 import Badge from '../views/badge';
 
 const Drawer = createDrawerNavigator();
@@ -61,16 +53,8 @@ function RootNavigator() {
         <Drawer.Screen name="Cards" component={Cards} />
         <Drawer.Screen name="Checkbox" component={CheckBox} />
         <Drawer.Screen name="FAB" component={FAB} />
-        <Drawer.Screen name="Fonts" component={Fonts} />
         <Drawer.Screen name="Inputs" component={Inputs} />
         <Drawer.Screen name="LinearProgress" component={LinearProgress} />
-        <Drawer.Screen name="Login" component={Login} />
-        <Drawer.Screen name="Overlay" component={Overlay} />
-        <Drawer.Screen name="Social Icons" component={SocialIcons} />
-        <Drawer.Screen name="Speed Dial" component={SpeedDial} />
-        <Drawer.Screen name="Tabs" component={Tabs} />
-        <Drawer.Screen name="Text" component={Text} />
-        <Drawer.Screen name="Theme" component={Theme} />
       </Drawer.Navigator>
     </NavigationContainer>
   );

@@ -3,7 +3,7 @@
     {
       "type": "category",
       "label": "Getting Started",
-      "items": ["overview", "installation", "troubleshooting"],
+      "items": ["overview"],
       "collapsed": false
     },
     {
@@ -11,76 +11,15 @@
       "type": "category",
       "label": "Components",
       "items": [
-        {
-          "collapsible": false,
-          "type": "category",
-          "link": {
-            "type": "doc",
-            "id": "components/avatar"
-          },
-          "label": "Avatar",
-          "items": ["components/avatar_accessory"]
-        },
+       "components/avatar",
         "components/badge",
         "components/button",
-        "components/buttongroup",
-        {
-          "collapsible": false,
-          "type": "category",
-          "link": {
-            "type": "doc",
-            "id": "components/card"
-          },
-          "label": "Card",
-          "items": [
-            "components/card_divider",
-            "components/card_featuredsubtitle",
-            "components/card_featuredtitle",
-            "components/card_image",
-            "components/card_title"
-          ]
-        },
+        "components/card",         
         "components/checkbox",
         "components/fab",
-        "components/icon",
-        "components/image",
         "components/input",
         "components/linearprogress",
-
-        "components/overlay",
-        "components/socialicon",
-        {
-          "collapsible": false,
-          "type": "category",
-          "link": {
-            "type": "doc",
-            "id": "components/speeddial"
-          },
-          "label": "SpeedDial",
-          "items": ["components/speeddial_action"]
-        },
-        "components/switch",
-        {
-          "collapsible": false,
-          "type": "category",
-          "link": {
-            "type": "doc",
-            "id": "components/tab"
-          },
-          "label": "Tab",
-          "items": ["components/tab_item"]
-        },
-        {
-          "collapsible": false,
-          "type": "category",
-          "link": {
-            "type": "doc",
-            "id": "components/tabview"
-          },
-          "label": "TabView",
-          "items": ["components/tabview_item"]
-        },
-        "components/text"
+        "components/switch"
       ]
     }
   ]

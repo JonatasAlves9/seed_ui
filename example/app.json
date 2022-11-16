@@ -1,15 +1,13 @@
 {
   "expo": {
-    "name": "React Native Elements",
-    "owner": "rne_org",
-    "slug": "react-native-elements",
+    "name": "Seed UI",
+    "slug": "react-native-seedui",
     "description": "A demo app for React Native Elements UI Library",
     "privacy": "public",
     "platforms": ["ios", "android", "web"],
     "version": "4.0.0",
     "orientation": "default",
     "primaryColor": "#cccccc",
-    "icon": "./assets/icons/icon.png",
     "splash": {
       "image": "./assets/icons/loading.png"
     },

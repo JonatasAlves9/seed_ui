@@ -92,15 +92,6 @@ const config = {
     liveCodeBlock: {
       playgroundPosition: 'top',
     },
-    announcementBar: {
-      id: 'support_us',
-      content:
-        'If you like Seed UI, give it a  <a target="_blank" rel="noopener noreferrer" href="https://github.com/JonatasAlves9/seed_ui/tree/release/0.2">star on GitHub!</a> ⭐' +
-        ' and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com">Twitter</a>!',
-      backgroundColor: 'var(--ifm-hero-background-color)',
-      textColor: 'var(--ifm-navbar-link-color)', // Defaults to `#000`.
-      isCloseable: false,
-    },
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
@@ -113,34 +104,19 @@ const config = {
       },
       hideOnScroll: true,
       items: [
-        {
-          type: 'docsVersionDropdown',
-          position: 'left',
-          dropdownItemsAfter: [{ to: 'versions', label: 'All versions' }],
-          // Do not add the link active class when browsing docs.
-          dropdownActiveClassDisabled: true,
-          docsPluginId: 'default',
-        },
         // { to: 'docs/', label: 'Docs', position: 'right' },
         // { to: 'help', label: 'Help', position: 'right' },
         // { to: 'blog', label: 'Blog', position: 'right' },
         { type: 'search', position: 'right' },
         {
-          href: 'https://github.com/sponsors/react-native-elements',
-          // label: 'Sponsor',
-          position: 'right',
-          className: 'header-github-sponsor-link',
-          'aria-label': 'GitHub Sponsor',
-        },
-        {
-          href: 'https://twitter.com/rn_elements',
+          href: 'https://twitter.com/devjnt_',
           // label: 'Sponsor',
           position: 'right',
           className: 'header-twitter-link',
           'aria-label': 'Twitter',
         },
         {
-          href: 'https://github.com/react-native-elements/react-native-elements',
+          href: 'https://github.com/JonatasAlves9/seed_ui',
           // label: 'GitHub',
           position: 'right',
           className: 'header-github-link',

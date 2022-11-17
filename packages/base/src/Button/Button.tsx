@@ -312,6 +312,7 @@ export const Button: RneFunctionComponent<ButtonProps> = ({
               borderRadius,
               // flex direction based on iconPosition
               // if iconRight is true, default to right
+              flex: 1,
               flexDirection:
                 positionStyle[iconRight ? 'right' : iconPosition] || 'row',
               backgroundColor:
@@ -389,6 +390,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 16,
     textAlign: 'center',
+    padding: 2,
     paddingVertical: 1,
     ...Platform.select({
       android: {

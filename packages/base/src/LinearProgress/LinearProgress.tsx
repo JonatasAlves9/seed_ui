@@ -34,9 +34,6 @@ export interface LinearProgressProps extends ViewProps {
     | boolean;
 }
 
-/** Progress indicators inform users about the status of ongoing processes, such as loading an app, submitting a form, or saving updates.
- * They communicate an app’s state and indicate available actions, such as whether users can navigate away from the current screen.
- * Also receives all [View](https://reactnative.dev/docs/view#props) props */
 export const LinearProgress: RneFunctionComponent<LinearProgressProps> = ({
   value,
   /** If value is given then variant default as determinate */

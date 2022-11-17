@@ -122,8 +122,8 @@ export const Avatar: RneFunctionComponent<AvatarProps> = ({
     typeof size === 'number' ? size : avatarSizes[size] || avatarSizes.small;
 
   const height = width;
-  const titleSize = width / 2;
-  const iconSize = width / 2;
+  const titleSize = width / 4;
+  const iconSize = width / 4;
 
   const PlaceholderContent =
     (renderPlaceholderContent &&
